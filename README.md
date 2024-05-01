@@ -1,5 +1,5 @@
 # ☕️ About Me:
-🔭 I’m currently working on Employee Management REST Api<br>🌱 I’m currently learning Spring 6 and MongoDB<br>
+🔭 I’m currently working on Custom language Interpreter<br>🌱 I’m currently learning Golang and exploring neovim<br>
 
 
 ## 🌐 Socials:
