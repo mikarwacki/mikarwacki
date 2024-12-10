@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikarwacki&label=Profile%20views&color=0e75b6&style=flat" alt="mikarwacki" /> </p>
 
-- 🔭 I’m currently working on **Custom Language Interpreter**
+- 🔭 I’m currently working on **Custom Language Interpreter written in go**
 
 - 🌱 I’m currently exploring the depths of **Golang and Neovim**
 
